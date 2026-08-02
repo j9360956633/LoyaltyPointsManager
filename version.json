@@ -1,5 +1,5 @@
 {
   "latest_version": "1.0.2",
-  "download_url": "https://github.com/j9360956633/LoyaltyPointsManager/releases/download/v1.0.2/Loyalty Points Manager 17.0.exe",
-  "changelog": "- Fixed auto-download paths"
+  "download_url": "https://github.com/j9360956633/LoyaltyPointsManager/releases/download/1.0.2/Loyalty.Points.Manager.17.0.exe",
+  "changelog": "- Fixed auto-download path and tag matching"
 }

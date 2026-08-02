@@ -1,5 +1,5 @@
 {
   "latest_version": "1.0.1",
-  "download_url": "https://github.com/j9360956633/LoyaltyPointsManager/releases/latest",
+  "download_url": "https://github.com/j9360956633/LoyaltyPointsManager.git",
   "changelog": "- Added automatic database optimization\n- Fixed table font color issues in dark theme"
 }
